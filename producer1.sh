@@ -1,0 +1,8 @@
+python kafka_process/producer.py "smallerCSV/2000.csv"
+python kafka_process/producer.py "smallerCSV/2001.csv"
+python kafka_process/producer.py "smallerCSV/2002.csv"
+python kafka_process/producer.py "smallerCSV/2003.csv"
+python  kafka_process/producer.py "smallerCSV/2004.csv"
+python  kafka_process/producer.py "smallerCSV/2005.csv"
+python  kafka_process/producer.py "smallerCSV/2006.csv"
+python  kafka_process/producer.py "smallerCSV/2007.csv"
